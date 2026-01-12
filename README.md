@@ -1,9 +1,9 @@
 # Programming Language Concepts code for Aston University students
 ```diff
-+ This repo is the PLC module starting in January 2025.
++ This repo is the PLC module starting in January 2026.
 ```
 
 ## Editing and running the code via a web browser
 
-- Make an account on [gitpod.io](https://gitpod.io)
-- Open an IDE using [this link](https://gitpod.io/#https://github.com/khanAston/PLC2025).
+- Use CodeSpaces. Tutorial on CodeSpace is available on Blackboard (see Lab01 folder)
+- CodeSpaces provides 60 hours of free time per month. Please shut it down when not using.
